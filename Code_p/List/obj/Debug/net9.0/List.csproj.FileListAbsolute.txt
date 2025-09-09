@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\CODE\List\bin\Debug\net9.0\List.exe
+C:\Users\Dell\Desktop\CODE\List\bin\Debug\net9.0\List.deps.json
+C:\Users\Dell\Desktop\CODE\List\bin\Debug\net9.0\List.runtimeconfig.json
+C:\Users\Dell\Desktop\CODE\List\bin\Debug\net9.0\List.dll
+C:\Users\Dell\Desktop\CODE\List\bin\Debug\net9.0\List.pdb
+C:\Users\Dell\Desktop\CODE\List\obj\Debug\net9.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CODE\List\obj\Debug\net9.0\List.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CODE\List\obj\Debug\net9.0\List.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CODE\List\obj\Debug\net9.0\List.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CODE\List\obj\Debug\net9.0\List.dll
+C:\Users\Dell\Desktop\CODE\List\obj\Debug\net9.0\refint\List.dll
+C:\Users\Dell\Desktop\CODE\List\obj\Debug\net9.0\List.pdb
+C:\Users\Dell\Desktop\CODE\List\obj\Debug\net9.0\List.genruntimeconfig.cache
+C:\Users\Dell\Desktop\CODE\List\obj\Debug\net9.0\ref\List.dll

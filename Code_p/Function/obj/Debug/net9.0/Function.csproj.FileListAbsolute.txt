@@ -1,0 +1,4 @@
+C:\Users\Dell\Desktop\CODE\Function\obj\Debug\net9.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CODE\Function\obj\Debug\net9.0\Function.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CODE\Function\obj\Debug\net9.0\Function.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CODE\Function\obj\Debug\net9.0\Function.csproj.CoreCompileInputs.cache
